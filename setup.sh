@@ -11,7 +11,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 cd "$DIR/abcm2ps"
 ./configure && make
 cd ..
-mv abcm2ps/abcm2ps . && chmod +x abcm2ps
+mv abcm2ps/abcm2ps abc2ps && chmod +x abc2ps
 cd abcmidi
 ./configure && make
 cd ..
