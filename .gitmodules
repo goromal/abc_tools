@@ -1,0 +1,6 @@
+[submodule "abcm2ps"]
+	path = abcm2ps
+	url = https://github.com/goromal/abcm2ps
+[submodule "abcmidi"]
+	path = abcmidi
+	url = https://github.com/goromal/abcmidi
